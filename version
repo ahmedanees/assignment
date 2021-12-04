@@ -1,0 +1,1425 @@
+===============================================================================
+
+Release 0.100.0319-pre
+========================
+HASH: 9afce04ee579c9b8a7bb15ccb413273078acfd3f
+
+Release Story
+=============
+https://www.pivotaltracker.com/story/show/164364384
+
+Status
+======
+
+While adding a post when the author adds the title, then hit on enter button post goes on drafts.
+https://www.pivotaltracker.com/story/show/163587533
+
+User is not able to edit the folder
+https://www.pivotaltracker.com/story/show/164040396
+
+User cannot delete the folder, delete functionality is missing
+https://www.pivotaltracker.com/story/show/164103796
+
+Tab buttons are not getting highlighted, when user/Author hit on Discussion, Activities & Catalog, Annotation tab, under online content page after purchase.
+https://www.pivotaltracker.com/story/show/164103855
+
+Modify Contributor/Author Bio
+https://www.pivotaltracker.com/story/show/164133793
+
+Crash on Event Page
+https://www.pivotaltracker.com/story/show/164631844
+
+Crash when Permanently deleting user.
+https://www.pivotaltracker.com/story/show/164631863
+
+Fixed Single post not working #bug
+https://www.pivotaltracker.com/story/show/164639777
+
+Following Section in Mobile UI
+https://www.pivotaltracker.com/story/show/164689065
+
+UI add new item layout alignment issue on author side
+https://www.pivotaltracker.com/story/show/164694720
+
+Book Page UI from User's dashboard
+https://www.pivotaltracker.com/story/show/164695986
+
+Amazon confirmation box integrate
+https://www.pivotaltracker.com/story/show/164696443
+
+cart review page integrate confirmation alert
+https://www.pivotaltracker.com/story/show/164696451
+
+On comments section Author profile link not taking user to Author Profile Page
+https://www.pivotaltracker.com/story/show/164696984
+
+UI|Spacing issue in text on support page
+https://www.pivotaltracker.com/story/show/164720828
+
+(UI+Dev) Crash page layout issue
+https://www.pivotaltracker.com/story/show/164720851
+
+When user/author like any post and then dislike its not removing from My activity tab.
+https://www.pivotaltracker.com/story/show/164721263
+
+When Author comment under the book when the author hit on his own name it's redirecting to any other author,
+https://www.pivotaltracker.com/story/show/164721359
+
+Poll options are shown in descending order in UAT
+https://www.pivotaltracker.com/story/show/164721403
+
+When user follow any author and like any post of that author, My activity shows some extra posts other than user activities
+https://www.pivotaltracker.com/story/show/164723406
+
+Launch button position change, on right side  where other icons of post display e.g (edit, delete)
+https://www.pivotaltracker.com/story/show/164723839
+
+Integrate confirmation alert on order page author side
+https://www.pivotaltracker.com/story/show/164723915
+
+if no trusted influencer found then category not display
+https://www.pivotaltracker.com/story/show/164726354
+
+UI| On activities tab at author end (UAT)
+https://www.pivotaltracker.com/story/show/164729384
+
+===============================================================================
+
+Release 0.100.0318-pre
+========================
+HASH: ccc109ff33f36dfdbdf04308ef07e4b8acbfe0d9
+
+Release Story
+=============
+https://www.pivotaltracker.com/story/show/164678561
+https://www.pivotaltracker.com/story/show/164592750
+https://www.pivotaltracker.com/story/show/164592747
+
+Status
+======
+
+User Profile Creation (My Activity)
+https://www.pivotaltracker.com/story/show/164204786
+
+Podcast Annotations | Clicking on the annotation should take you to that time in the podcast.
+https://www.pivotaltracker.com/story/show/164565210
+
+post editor and post bold italic underline and passage styling
+https://www.pivotaltracker.com/story/show/164570492
+
+Research and development for showing current Users city information based on IP  addresses
+https://www.pivotaltracker.com/story/show/164572784
+
+Need to add Scroll bar on event Q&A author side
+https://www.pivotaltracker.com/story/show/164595111
+
+feed back popup page create
+https://www.pivotaltracker.com/story/show/164595887
+
+UI| TOU page/text container is small, while signup.
+https://www.pivotaltracker.com/story/show/164598235
+
+Back arrow/button is required on account creation page
+https://www.pivotaltracker.com/story/show/164598392
+
+UI| OTS (our terms of service) on account creation text touching the border in mobile view
+https://www.pivotaltracker.com/story/show/164599927
+
+On mobile when user scroll down on event screen then hit on others tab Screen blink and scrolling messing up
+https://www.pivotaltracker.com/story/show/164623696
+
+On edit event if hashtag field is empty on user side hashtag should be shown empty. its showing #Love
+https://www.pivotaltracker.com/story/show/164624065
+
+Please add this icon on the title of the post.
+https://www.pivotaltracker.com/story/show/164624778
+
+blue alert on sign page redesign
+https://www.pivotaltracker.com/story/show/164624785
+
+Partially done GDPR implementation soft delete and hard delete
+https://www.pivotaltracker.com/story/show/164638404
+
+Fixed ticket purchase issue on user side for uat branch
+https://www.pivotaltracker.com/story/show/164638422
+
+Get Users Latitude and Longitude from their IP addresses
+https://www.pivotaltracker.com/story/show/164638431
+
+Show all Users registered in our app to HeatMap
+https://www.pivotaltracker.com/story/show/164638435
+
+Research to pull live users in our app
+https://www.pivotaltracker.com/story/show/164638444
+
+Fixed shop related issues in separate branch for UAT
+https://www.pivotaltracker.com/story/show/164638452
+
+Working on User Profile Page
+https://www.pivotaltracker.com/story/show/164638460
+
+soft delete functionality added
+https://www.pivotaltracker.com/story/show/164638803
+
+user all data including (likes, comments, followers, comments like, dislikes) etc will be hidden from the site and user will be sign out on soft delete.
+https://www.pivotaltracker.com/story/show/164638809
+
+when user will sign in restore all his data  (likes, comments, followers, comments like, dislikes) etc as it was before
+https://www.pivotaltracker.com/story/show/164638812
+
+a page is added showing welcome message to the user when he sign in after soft delete
+https://www.pivotaltracker.com/story/show/164638819
+
+issues fixes after deployment related to soft delete and hard delete on run time
+https://www.pivotaltracker.com/story/show/164638827
+
+videos on event details page on user and author side
+https://www.pivotaltracker.com/story/show/164639447
+
+confirmation alert on deactivate and permanent deactivate button
+https://www.pivotaltracker.com/story/show/164639453
+
+confirmation alert on deactivate and permanent deactivate button
+https://www.pivotaltracker.com/story/show/164639453
+
+activate and deactivate button design
+https://www.pivotaltracker.com/story/show/164639456
+
+Annotation not working under the event. #bug
+https://www.pivotaltracker.com/story/show/164639783
+
+MASTER TAB LIST  User View (In order from Left to Right, reading down) Events
+https://www.pivotaltracker.com/story/show/164678605
+
+Live Event (Podcast/Video, Live) User side
+https://www.pivotaltracker.com/story/show/164678610
+
+Master Tab List: Media: User side
+https://www.pivotaltracker.com/story/show/164678612
+
+Master Tab List: Author View (In order from Left to Right, reading down) Events
+https://www.pivotaltracker.com/story/show/164678617
+
+Live Event (Podcast/Video, Live) Author Side
+https://www.pivotaltracker.com/story/show/164678618
+
+Master Tab List: Media: Author view
+https://www.pivotaltracker.com/story/show/164678622
+
+User should get sign out, after deactivate or delete the account successfully
+https://www.pivotaltracker.com/story/show/164678942
+
+On Event Love hashtag showing on all tabs.
+https://www.pivotaltracker.com/story/show/164679026
+
+Link post is showing full link.
+https://www.pivotaltracker.com/story/show/164679028
+
+Hashtag is showing as Text on post.
+https://www.pivotaltracker.com/story/show/164679033
+
+Crashing on Activity tab
+https://www.pivotaltracker.com/story/show/164679036
+
+After Subscribe post are not showing..
+https://www.pivotaltracker.com/story/show/164679038
+
+Read more button is not showing on any post.
+https://www.pivotaltracker.com/story/show/164679039
+
+All post data is shown under My activity when logged in as new (Custom ) user.
+https://www.pivotaltracker.com/story/show/164334880
+
+On Event Q&A Like and dislike color is not shown when the user hit on like or dislike.
+https://www.pivotaltracker.com/story/show/164592877
+
+UI Need to change some text on event screen Author and user side.
+https://www.pivotaltracker.com/story/show/164623818
+
+Mobile ui of author's profile from user's side
+https://www.pivotaltracker.com/story/show/164639324
+
+When is shown twice under the event. at author end
+https://www.pivotaltracker.com/story/show/164694986
+
+Book Page UI from User's dashboard
+https://www.pivotaltracker.com/story/show/164695986
+
+On soft delete of account Deactivate confirmation box shows/integrate
+https://www.pivotaltracker.com/story/show/164696432
+
+Permanently deactivate confirmation box integrate
+https://www.pivotaltracker.com/story/show/164696441
+
+user profile page for other users to see via comment and sub comment
+https://www.pivotaltracker.com/story/show/164696574
+
+Crash occurs on deleting the post
+https://www.pivotaltracker.com/story/show/164696584
+
+when user visit user profile ts logo should not be shown
+https://www.pivotaltracker.com/story/show/164696605
+
+User Profile Link issue fixed for sub comments
+https://www.pivotaltracker.com/story/show/164696613
+
+working on user profile page for users logged in through social logins
+https://www.pivotaltracker.com/story/show/164696897
+
+Broken UI in products section from author site
+https://www.pivotaltracker.com/story/show/164697872
+
+User's Dashboard UI for Mobile
+https://www.pivotaltracker.com/story/show/164720863
+
+Crashing on live when Admin sent invitation to new author
+https://www.pivotaltracker.com/story/show/164722309
+
+UI| Spacing issue on book annotation, also DOT is shown
+https://www.pivotaltracker.com/story/show/164725831
+
+Authors Profile UI for Mobile
+https://www.pivotaltracker.com/story/show/164732729
+
+Crash on Author Profile
+https://www.pivotaltracker.com/story/show/164734143
+
+===============================================================================
+
+Release 0.100.0313-pre
+========================
+HASH: e9ea1889ef2b47f44ac984a9ac71a959e316c5c3
+
+Release Story
+=============
+https://www.pivotaltracker.com/story/show/164458276
+https://www.pivotaltracker.com/story/show/164458278
+https://www.pivotaltracker.com/story/show/164458282
+
+Status
+======
+
+On the creation of the User Stream it's accepting HTML.
+https://www.pivotaltracker.com/story/show/163587370 | Resolved
+
+Refreshing issue on post partially done
+https://www.pivotaltracker.com/story/show/164165877 | Resolved
+
+Important | Twitter OAuth code needs to be corrected.
+https://www.pivotaltracker.com/story/show/164236351 | Resolved
+
+Page needs to be refreshed after a post is deleted
+https://www.pivotaltracker.com/story/show/164295416 | Resolved
+
+Workplace | UI | When a link post is created we do not need to show the complete URL of the link
+https://www.pivotaltracker.com/story/show/164325816 | Resolved
+
+Event Q&A Ajax having issues.
+https://www.pivotaltracker.com/story/show/164336601 | Resolved
+
+UI | added search in Annotate New Page
+https://www.pivotaltracker.com/story/show/164371270 | Resolved
+
+UI | Added page number search in Annotate New Page
+https://www.pivotaltracker.com/story/show/164371289 | Resolved
+
+When adding link in post description, it shows error message after loading web page.
+https://www.pivotaltracker.com/story/show/164398794 | Resolved
+
+Refresh/reload is required when author post the first time
+https://www.pivotaltracker.com/story/show/164400524 | Resolved
+
+UI| When user answers the poll post and empty filed box is shown
+https://www.pivotaltracker.com/story/show/164457548 | Resolved
+
+User cannot unsaved the post from the favorite folder.
+https://www.pivotaltracker.com/story/show/164493136 | Resolved
+
+When user delete the stream folder, it should redirect the user to dashboard
+https://www.pivotaltracker.com/story/show/164493200 | Resolved
+
+Hashtags should be shown the form of there count order.
+https://www.pivotaltracker.com/story/show/164494909 | Resolved
+
+when author edit the link post, post is saved without image preview and  link description disappears
+https://www.pivotaltracker.com/story/show/164495842 | Resolved
+
+After removing hashtags from edit post, hashtags are not getting removed from the hashtag list.
+https://www.pivotaltracker.com/story/show/164500821 | Resolved
+
+Privacy Policy Text Issues
+https://www.pivotaltracker.com/story/show/164528093 | Resolved
+
+Author is not able to answer other authors polls.
+https://www.pivotaltracker.com/story/show/164528561 | Resolved
+
+Privacy Policy Text Issues on Author Sign Up process
+https://www.pivotaltracker.com/story/show/164529020 | Resolved
+
+Author should not be able to see other Author’s poll answer count.
+https://www.pivotaltracker.com/story/show/164530395 | Resolved
+
+Podcast is showing a missing image in the console.
+https://www.pivotaltracker.com/story/show/164533567 | Resolved
+
+Workplace | Add ability to add username when user signs up using Social Login.
+https://www.pivotaltracker.com/story/show/164565125 | Resolved
+
+Use Twitter API to pull tweets using a hashtag.
+https://www.pivotaltracker.com/story/show/164565148 | Resolved
+
+Landing Page UI Changes for Mobile Screen
+https://www.pivotaltracker.com/story/show/164565630 | Resolved
+
+Implement Google Ad Manager that ads are being served dynamically on event and book pages
+https://www.pivotaltracker.com/story/show/164565642 | Resolved
+
+Sign in Page UI Changes for Mobile Screen
+https://www.pivotaltracker.com/story/show/164565656 | Resolved
+
+Sign up Page UI Changes for Mobile Screen
+https://www.pivotaltracker.com/story/show/164565669 | Resolved
+
+Cart Review Page UI Changes for Mobile Screen
+https://www.pivotaltracker.com/story/show/164565680 | Resolved
+
+User not able to logout when he sign-in with Facebook.
+https://www.pivotaltracker.com/story/show/164568551 | Resolved
+
+sign up and sign in pages validation error positioning with Kamyaar
+https://www.pivotaltracker.com/story/show/164569012 | Resolved
+
+sign in and sign up password user on caps lock button on entering password display icon for caps lock
+https://www.pivotaltracker.com/story/show/164569016 | Resolved
+
+sign up with fb and google username page redesign
+https://www.pivotaltracker.com/story/show/164569018 | Resolved
+
+event Q&A scroll issue
+https://www.pivotaltracker.com/story/show/164569020 | Resolved
+
+UI| on Ask a Question under the event
+https://www.pivotaltracker.com/story/show/164569790 | Resolved
+
+Hashtag design
+https://www.pivotaltracker.com/story/show/164570496 | Resolved
+
+For author event display Tweets using hashtag same layout as on dashboard
+https://www.pivotaltracker.com/story/show/164571999 | Resolved
+
+For user event display Tweets using hashtag same layout as on dashboard
+https://www.pivotaltracker.com/story/show/164572014 | Resolved
+
+Publish button is not working in the event under the discussion tab
+https://www.pivotaltracker.com/story/show/164573585 | Resolved
+
+UI | Next button and set user name is shown in Our Terms of service page while creating an new account.
+https://www.pivotaltracker.com/story/show/164573706 | Resolved
+
+User cannot log out when logged in via mobile platform.
+https://www.pivotaltracker.com/story/show/164573817 | Resolved
+
+On Discussion screen time & Date is showing on the wrong side.
+https://www.pivotaltracker.com/story/show/164592866 | Resolved
+
+Created Mobile Template with Qaiser bhai
+https://www.pivotaltracker.com/story/show/164593396 | Resolved
+
+Event Page Detail Section
+https://www.pivotaltracker.com/story/show/164593413 | Resolved
+
+Event Page Discussion Section
+https://www.pivotaltracker.com/story/show/164593420 | Resolved
+
+Event Page Event Q&A Section
+https://www.pivotaltracker.com/story/show/164593422 | Resolved
+
+Event Page Event Hashtag Section
+https://www.pivotaltracker.com/story/show/164593428 | Resolved
+
+Event Home Page UI
+https://www.pivotaltracker.com/story/show/164594074 | Resolved
+
+Sign in / Sign up UI
+https://www.pivotaltracker.com/story/show/164594168 | Resolved
+
+Author Edit Profile UI Changes
+https://www.pivotaltracker.com/story/show/164595205 | Resolved
+
+Need to change Notification for mobile only (Text Bubbles)
+https://www.pivotaltracker.com/story/show/164597725 | Resolved
+
+===============================================================================
+
+Release 0.100.0307-pre
+========================
+HASH: fbe490fa7f4d43cb38ec34ef20ad14d82411bc7b
+
+Release Story
+=============
+https://www.pivotaltracker.com/story/show/164457555
+
+Status
+======
+
+While Creating poll post (Multiple question) if Special characters add on answers, words are not showing correct.
+https://www.pivotaltracker.com/story/show/163364330
+
+When user add Reference on on post underline is not showing on Safari browser/internet explorer
+https://www.pivotaltracker.com/story/show/163365299
+
+UI issue on add/creation event page, overlapping text on start time etc fields
+https://www.pivotaltracker.com/story/show/164044174
+
+(UI & Dev) Creating poll on author side on dev is not working or is not easy
+https://www.pivotaltracker.com/story/show/164161348
+
+Line between Media posts and regular post should be full not broken
+https://www.pivotaltracker.com/story/show/164166326
+
+Add line between smaller posts
+https://www.pivotaltracker.com/story/show/164166344
+
+UI Change. Bring uniformity in UI.
+https://www.pivotaltracker.com/story/show/164166398
+
+Activities & Catalog section of Book needs to redesigned with proper formatting and font
+https://www.pivotaltracker.com/story/show/164166447
+
+See all hashtag functionality should be added
+https://www.pivotaltracker.com/story/show/164271367
+
+DEV | Opening the single post, should expand all the comments by default
+https://www.pivotaltracker.com/story/show/164349664
+
+While creating new book when author add shipping cost Country code is showing disable.
+https://www.pivotaltracker.com/story/show/164361828
+
+UI  issue, change position of add button on product page
+https://www.pivotaltracker.com/story/show/164362007
+
+UI, spacing is required between the products on products page at author end
+https://www.pivotaltracker.com/story/show/164368274
+
+Text is wrong shown on author profile page... specific to "James Altucher" page.
+https://www.pivotaltracker.com/story/show/164398556
+
+User End | All hashtag should display on show more popup.
+https://www.pivotaltracker.com/story/show/164399914
+
+Remove a check, of showing two books and two events
+https://www.pivotaltracker.com/story/show/164423720
+
+Task | Kamyaar changes
+https://www.pivotaltracker.com/story/show/164425581
+
+Need to change text under Draft post, SCHEDULED
+https://www.pivotaltracker.com/story/show/164425709
+
+On single post random line is showing.
+https://www.pivotaltracker.com/story/show/164426265
+
+Show view all button under the ebook and events on author profile page at user end
+https://www.pivotaltracker.com/story/show/164426981
+
+UI| Single Post: Fixed the width of popover
+https://www.pivotaltracker.com/story/show/164430372
+
+UI| User Dashboard: Applied border on Images of eBook and Events
+https://www.pivotaltracker.com/story/show/164430390
+
+UI| Change the small icon (ts.) which appears with username in profile and comments section
+https://www.pivotaltracker.com/story/show/164430406
+
+UI| Single Post > References: changed the color of text and spacing
+https://www.pivotaltracker.com/story/show/164430418
+
+UI| User Dashboard > Author Profile > Books[see all]: changed the text in title, make images little bit large and applied the border
+https://www.pivotaltracker.com/story/show/164430451
+
+Height of image is not static, symmetry under the product page inside books section
+https://www.pivotaltracker.com/story/show/164460611
+
+Need to apply border on images of ebooks and events on Author's profile
+https://www.pivotaltracker.com/story/show/164461075
+
+Need to change height and width of Images on User profile section
+https://www.pivotaltracker.com/story/show/164461099
+
+Poll answers under the event are not shown at author end
+https://www.pivotaltracker.com/story/show/164461146
+
+Hyper link post have spaces and not clickable
+https://www.pivotaltracker.com/story/show/164463907
+
+In hyperlink post there is some extra period after the post
+https://www.pivotaltracker.com/story/show/164463943
+
+Scroll bar should be added on show all hashtag popup
+https://www.pivotaltracker.com/story/show/164488898
+
+Crash on QA server.
+https://www.pivotaltracker.com/story/show/164489243
+
+When user add stream folders count doesn't increase, Refresh is required
+https://www.pivotaltracker.com/story/show/164489642
+
+Ebooks minimum 350 words per page and complete the last sentence
+https://www.pivotaltracker.com/story/show/164493469
+
+===============================================================================
+
+Release 0.100.0306-pre
+========================
+HASH: 97fda3b5498a6aa1207bdf9d18b08e038dabe14b
+
+Release Story
+=============
+https://www.pivotaltracker.com/story/show/164364385
+
+Status
+======
+
+Need to Remove About from post time
+https://www.pivotaltracker.com/story/show/164330157
+
+Text Change Required | You successfully mark spam for this comment.
+https://www.pivotaltracker.com/story/show/164336751
+
+User is not able to edit the folder( on edit Folder new folder is created)
+https://www.pivotaltracker.com/story/show/164103799
+
+Workplace | UI Change on New Annotations Page
+https://www.pivotaltracker.com/story/show/164350244
+
+Author can upload e-books from profile page
+https://www.pivotaltracker.com/story/show/164336449
+
+Add button is shown under the merchandise section at author profile page
+https://www.pivotaltracker.com/story/show/164363802
+
+When a book is not uploaded annotation tab should not be allowed/on for user
+https://www.pivotaltracker.com/story/show/164334427
+
+Author cannot delete his own comment.
+https://www.pivotaltracker.com/story/show/164103627
+
+Author can not see the admin post as user.
+https://www.pivotaltracker.com/story/show/164331054
+
+Wrong (alphabet, ? ) text is shown in title of Poll type post.
+https://www.pivotaltracker.com/story/show/164296574
+
+Crash occurs on add to cart page (High Priority)
+https://www.pivotaltracker.com/story/show/164365646
+
+UI  issue, change position of add button on product page
+https://www.pivotaltracker.com/story/show/164362007
+
+(UI + Dev) issue on book details page, References(0) count is shown,
+https://www.pivotaltracker.com/story/show/164185548
+
+UI issue, uniformity and symmetry is missing, add button under event on author profile page. at author end
+https://www.pivotaltracker.com/story/show/164364871
+
+UI issue on event creation page
+https://www.pivotaltracker.com/story/show/164329866
+
+UI, spacing is required between the products on products page at author end
+https://www.pivotaltracker.com/story/show/164368274
+
+Workplace | UI & DEV | References should be moved to single post page.
+https://www.pivotaltracker.com/story/show/164350302
+
+UI | Created Popover Menu of Post Section
+https://www.pivotaltracker.com/story/show/164371346
+
+UI | Colors and spacing issues fixed in Annotate New Page
+https://www.pivotaltracker.com/story/show/164371296
+
+UI | Added plus and minus icons in collapsable in Annotate New Page
+https://www.pivotaltracker.com/story/show/164371306
+
+UI | Added pagination in Annotate New Page
+https://www.pivotaltracker.com/story/show/164371277
+
+UI | FOR and AGAINST Refrence UI changes in single post page
+https://www.pivotaltracker.com/story/show/164371340
+
+UI | Change font of book text in Annotate New Page
+https://www.pivotaltracker.com/story/show/164371317
+
+At user end hashtag post are not shown, when user hit on hashtag
+https://www.pivotaltracker.com/story/show/164203058
+
+Hashtag Functionality is missing on user side. (user not be able to see hashtag section)
+https://www.pivotaltracker.com/story/show/164103877
+
+UI | Users Dashboard: Display the book name and author name in ebook hover div
+https://www.pivotaltracker.com/story/show/164400122
+
+UI | Users Dashboard: E-Book, Events, Merchandised and Books section changed in three columns. on user dashboard
+https://www.pivotaltracker.com/story/show/164400075
+
+UI | name of book and event font size change on user dashboard
+https://www.pivotaltracker.com/story/show/164399904
+
+UI | decrease spacing in name date and author name on user dashboard
+https://www.pivotaltracker.com/story/show/164400027
+
+UI | Folder and Stream Heading. Applied font style, size and color on user dashboard
+https://www.pivotaltracker.com/story/show/164400053
+
+UI | under single post page, font size change 12px to 10px
+https://www.pivotaltracker.com/story/show/164399804
+
+UI |  Bold Title of Post on Single Post page
+https://www.pivotaltracker.com/story/show/164399766
+
+Set page to 40 lines or 500 words.
+https://www.pivotaltracker.com/story/show/164459407
+
+Remove all merchandise from authors. Remove that from the seed data as well. We'll only focus on ebooks for now.
+https://www.pivotaltracker.com/story/show/164458927
+
+Cant see which underlined text goes with which annotation
+https://www.pivotaltracker.com/story/show/164459398
+
+Page number are wrong. Top page bar doesnít move properly
+https://www.pivotaltracker.com/story/show/164459390
+
+Remove user pictures from comments.
+https://www.pivotaltracker.com/story/show/164459193
+
+Ad banner to the other tabs
+https://www.pivotaltracker.com/story/show/164459182
+
+Remove the tickets and for sale from left in discussion tab. Ticket sale should only be in details tab.
+https://www.pivotaltracker.com/story/show/164459174
+
+Remove annotation tab in event.Just add comments that are in annotation tab to discussion area and add "my comments" to left under the event image.
+https://www.pivotaltracker.com/story/show/164459163
+
+UI |Fix event questions formatting (is messed up.)
+https://www.pivotaltracker.com/story/show/164459090
+
+User a user id in questions that are posted by users.
+https://www.pivotaltracker.com/story/show/164459070
+
+Reaction to likes and dislikes is too slow in event page
+https://www.pivotaltracker.com/story/show/164459048
+
+Audio is cutting off as you type in Event I think some keys are a command keys for the player.
+https://www.pivotaltracker.com/story/show/164458976
+
+Add "Show All" to annotations on the left so user can see all annotations again after they have clicked on one.
+https://www.pivotaltracker.com/story/show/164458952
+
+Selecting for reference is selecting too much
+https://www.pivotaltracker.com/story/show/164458943
+
+Only ebooks and events will be sold. No other product should be there.
+https://www.pivotaltracker.com/story/show/164458932
+
+Remove Edit answer for polls. Once the user gives the answer he cant change it.
+https://www.pivotaltracker.com/story/show/164459152
+
+===============================================================================
+
+Release 0.100.0302-pre
+========================
+HASH: a2739e3c66c0693f8b194f9be9fc5f50580bc42a
+
+Release Story
+=============
+https://www.pivotaltracker.com/story/show/164349241
+
+Status
+======
+
+Task | Integrate Zendesk as Support Page
+https://www.pivotaltracker.com/story/show/163640619
+
+UI Setting of Podcast Annotation Page
+https://www.pivotaltracker.com/story/show/164330066
+
+Update seed data to create more influencers
+https://www.pivotaltracker.com/story/show/164349328
+
+User Profile -> Content & Subscription: Space between Status:Purchased.
+https://www.pivotaltracker.com/story/show/164350432
+
+User Profile --> Account Settings: Changed default image icon.
+https://www.pivotaltracker.com/story/show/164350433
+
+User Profile --> Personal Information: Username error div settings.
+https://www.pivotaltracker.com/story/show/164350434
+
+User --> Author Profile --> Book: Ui fixed
+https://www.pivotaltracker.com/story/show/164350435
+
+User --> Folder Section: Added heading on top
+https://www.pivotaltracker.com/story/show/164350436
+
+Ebook section widget for author and user
+https://www.pivotaltracker.com/story/show/164351031
+
+===============================================================================
+
+Release 0.100.0301-pre
+========================
+HASH: d65f8321e1053d117044adfe3914e061d022eb91
+
+Release Story
+=============
+https://www.pivotaltracker.com/story/show/164296101
+
+Status
+======
+
+Update the TOU on the Sign Up page
+https://www.pivotaltracker.com/story/show/164295781 | Resolved
+
+Create a new page for Privacy Policy
+https://www.pivotaltracker.com/story/show/164295721 | Resolved
+
+Create a new page for Terms of Use
+https://www.pivotaltracker.com/story/show/164295718 | Resolved
+
+Disable ability for Author to add links to Subject line in Post
+https://www.pivotaltracker.com/story/show/164279245 | Resolved
+
+When admin post on author end Null is showing on post. on hitting Null crashing the site.
+https://www.pivotaltracker.com/story/show/164296740 | Resolved
+
+Author bio is shown as one block, should be shown as the format used by the contributor.
+https://www.pivotaltracker.com/story/show/164197716 | Resolved
+
+UI issue on create activity page, (text is blurry) under the book at author end.
+https://www.pivotaltracker.com/story/show/164131188 | Resolved
+
+UI + functionality issue on author dashboard, two tabs are underlined and highlighted at once.
+https://www.pivotaltracker.com/story/show/164137429 | Resolved
+
+Under trending posts, only Author name should be highlighted, not Author name AND time left etc. - Remove “about” and use dash (-)
+https://www.pivotaltracker.com/story/show/164166381 | Resolved
+
+Display formatted date and time in twitter and Youtube posts
+https://www.pivotaltracker.com/story/show/164186947 | Resolved
+
+Twitter and Youtube post feed.
+https://www.pivotaltracker.com/story/show/164186810 | Resolved
+
+With tier name some extra (number) is shown
+https://www.pivotaltracker.com/story/show/164304960 | Resolved
+
+Author and user can not mark comments as spam!
+https://www.pivotaltracker.com/story/show/164241889 | Resolved
+
+Workplace | UI Change Fix spelling Error
+https://www.pivotaltracker.com/story/show/164301804 | Resolved
+
+When author do not enter photo of content "ts." logo be shown instead
+https://www.pivotaltracker.com/story/show/164328463 | Resolved
+
+When adding link in post description, it shows error message after loading web page.
+https://www.pivotaltracker.com/story/show/164329956 | Resolved
+
+===============================================================================
+
+Release 0.100.0228-pre
+========================
+HASH: 7812857e94d552899d2af952132e126fe77c19c7
+
+Release Story
+=============
+https://www.pivotaltracker.com/story/show/164295824
+
+Status
+======
+
+Task | Author needs to have the ability to be able to browse the site as a user and follow other Authors and perform actions as a user.
+https://www.pivotaltracker.com/story/show/164133570 | Resolved
+
+UI issue under the activity, Next Button is not aligned, to Previous button. at user end
+https://www.pivotaltracker.com/story/show/164137099 | Resolved
+
+Author Verified mark is not populating on posts same issue as tier picture not populating
+https://www.pivotaltracker.com/story/show/164161408 | Resolved
+
+need to improve subscriptions screen.
+https://www.pivotaltracker.com/story/show/164185597 | Resolved
+
+On edit book, Add photo button disappear when the author put width photo (Author not able to upload an image once he uploaded the picture in width wise)
+https://www.pivotaltracker.com/story/show/164185803 | Resolved
+
+Tier color is missing on cart review page, when user add tier and go to check out
+https://www.pivotaltracker.com/story/show/164186586 | Resolved
+
+On edit book page, change the text, should be Change Photo instead of Add Photo if picture is already attached
+https://www.pivotaltracker.com/story/show/164206526 | Resolved
+
+On cart in shipping information City and state word is overlapping
+https://www.pivotaltracker.com/story/show/164206645 | Resolved
+
+UI: Italicise Title of Book and Format Correctly
+https://www.pivotaltracker.com/story/show/164207360 | Resolved
+
+User moved to cart payout page without entering the shipping address by removing the item/content from the shipping cart review page.
+https://www.pivotaltracker.com/story/show/164207756 | Resolved
+
+UI issuse, "..." read more is shown in Event details even though Description field is blank. at author end and also at user end
+https://www.pivotaltracker.com/story/show/164234452 | Resolved
+
+After payment processing of event donation pages, it will take you on the event back after payment processing
+https://www.pivotaltracker.com/story/show/164235214 | Resolved
+
+UI issuse, "..." read more is shown on author dashboard, when there is no bio info
+https://www.pivotaltracker.com/story/show/164235302 | Resolved
+
+UI space issue on comment text area..
+https://www.pivotaltracker.com/story/show/164236251 | Resolved
+
+Author is unable to add mailchimp account in profile, while creating/sign up or after logging inn.
+https://www.pivotaltracker.com/story/show/164241793 | Resolved
+
+Saving post in folder issue fixed on uat
+https://www.pivotaltracker.com/story/show/164265549 | Resolved
+
+With tier name some extra (number) is shown
+https://www.pivotaltracker.com/story/show/164282031 | Resolved
+
+User feed is not working correctly. When following multiple Authors, feed for one shows completely and then the second author's feed shows.
+https://www.pivotaltracker.com/story/show/164295186 | Resolved
+
+Author visiting another Author's profile does not see the correct feed
+https://www.pivotaltracker.com/story/show/164295207 | Resolved
+
+Workplace | UI Issue Multiple Changes
+https://www.pivotaltracker.com/story/show/164295303 | Resolved
+
+Workplace | Saving a post after editing, results in same post being rendered twice on user view
+https://www.pivotaltracker.com/story/show/164295381 | Resolved
+
+Workplace | UI Change Button Style Change
+https://www.pivotaltracker.com/story/show/164295429 | Resolved
+
+Workplace | UI Change Please fix Tier alignment
+https://www.pivotaltracker.com/story/show/164295521 | Resolved
+
+Workplace | UI Change Change Comment Design
+https://www.pivotaltracker.com/story/show/164295608 | Resolved
+
+Please check user1 feed on UAT. it's showing all Rubin and then Jordan. It's not time-based. I thought it was working before but not sure what's going on now. I published an admin post for all subscribers not sure if that's the issue.
+https://www.pivotaltracker.com/story/show/164296766 | Resolved
+
+Author not able to Edit his book after inactive Activities(even not able unpublished his book)
+https://www.pivotaltracker.com/story/show/164296841 | Resolved
+
+Purchased content page is empty, when user purchase a ticket and hit on event
+https://www.pivotaltracker.com/story/show/164296894 | Resolved
+
+epub book parser new design - Phase 1
+https://www.pivotaltracker.com/story/show/164299831 | Resolved
+
+event time issues, not getting scheduled for author
+https://www.pivotaltracker.com/story/show/164300696 | Resolved
+
+When Author upload his profile picture its taking to user view user profile
+https://www.pivotaltracker.com/story/show/164301736 | Resolved
+
+Workplace | Update Seed Data
+https://www.pivotaltracker.com/story/show/164302781 | Resolved
+
+===============================================================================
+
+Release 0.100.0227-pre-3
+========================
+HASH: f4e606ef9d71388fb7ad02d476e623e5213f9c48
+
+Release Story
+=============
+https://www.pivotaltracker.com/story/show/164268211
+
+Status
+======
+
+On deleting the post/comment confirmation message should be shown.
+https://www.pivotaltracker.com/story/show/164243023 | Resolved
+
+When author hit on read more button on his BIO an empty popup is shown
+https://www.pivotaltracker.com/story/show/164267299 | Resolved
+
+Read more button is shown multiple times on UAT under hashtag at both end author and user
+https://www.pivotaltracker.com/story/show/164267442 | Resolved
+
+Spam and block functionality
+https://www.pivotaltracker.com/story/show/164269611 | Resolved
+
+Trending posts functionality
+https://www.pivotaltracker.com/story/show/164269620 | Resolved
+
+Author cant post a poll to an event anymore
+https://www.pivotaltracker.com/story/show/164269644 | Resolved
+
+There are two signout on user profile page
+https://www.pivotaltracker.com/story/show/164269653 | Resolved
+
+Photo post functionality
+https://www.pivotaltracker.com/story/show/164269658 | Resolved
+
+Fav folder is not showing anything
+https://www.pivotaltracker.com/story/show/164269932 | Resolved
+
+Poll post functionality
+https://www.pivotaltracker.com/story/show/164269946 | Resolved
+
+Show trending post section for author, on author dashboard
+https://www.pivotaltracker.com/story/show/164270521 | Resolved
+
+Remove author catalog from author dashboard
+https://www.pivotaltracker.com/story/show/164270541 | Resolved
+
+(Lock) Tier post functionality
+https://www.pivotaltracker.com/story/show/164270929 | Resolved
+
+Draft post hashtags are showing on user side.
+https://www.pivotaltracker.com/story/show/164273047 | Resolved
+
+Remove the count from trending section
+https://www.pivotaltracker.com/story/show/164273066 | Resolved
+
+===============================================================================
+
+Release 0.100.0227-pre-1
+======================
+HASH: ff55dfb347c6481af9cc168941c7f406270a52a5
+
+Release Story
+=============
+https://www.pivotaltracker.com/story/show/164266560
+
+Status
+======
+
+Change password are shown twice in profile screen page
+https://www.pivotaltracker.com/story/show/164266591 | Resolved
+
+Lock is not shown in tier post
+https://www.pivotaltracker.com/story/show/164266603 | Resolved
+
+Post are not getting saved in Folders
+https://www.pivotaltracker.com/story/show/164266610 | Resolved
+
+Contributor is not getting save in stream folder
+https://www.pivotaltracker.com/story/show/164266612 | Resolved
+
+===============================================================================
+
+Release 0.100.0225-pre
+======================
+HASH: ba0e6615525bc824f933276658da8a4951d55551
+
+Release Story
+=============
+https://www.pivotaltracker.com/story/show/164161625
+
+Status
+======
+
+Post to twitter function is not working from Authors view
+https://www.pivotaltracker.com/story/show/164161397 | Resolved
+
+In tweet, Author name should be clickable and link to profile
+https://www.pivotaltracker.com/story/show/164166388 | Resolved
+
+Saved folder isn't working (but you can save the post to some where)
+https://www.pivotaltracker.com/story/show/164166364 | Resolved
+
+Twitter is coming up but then replaced by Youtube videos
+https://www.pivotaltracker.com/story/show/164161362 | Resolved
+
+Please add close button/cancel, On every popup.
+https://www.pivotaltracker.com/story/show/164165986 | Resolved
+
+Author/Contributor Profile Picture should be on the left side of the post (size/height of the Title and Author Name)
+https://www.pivotaltracker.com/story/show/164134006 | Resolved
+
+When posting link on author side on dev, picture is not populating
+https://www.pivotaltracker.com/story/show/164161347 | Resolved
+
+Revamp/Organize Comment Section, consistent on entire site (Podcasts, Books, Posts)
+https://www.pivotaltracker.com/story/show/164103159 | Resolved
+
+UI issue,On Author side Buy it on Amazon button is still showing on book
+https://www.pivotaltracker.com/story/show/164171280 | Resolved
+
+rake task not working on server for social posting
+https://www.pivotaltracker.com/story/show/164198773 | Resolved
+
+social icon colored post
+https://www.pivotaltracker.com/story/show/164185484 | Resolved
+
+Change photo button is not clearly visible or shown,
+https://www.pivotaltracker.com/story/show/164197980 | Resolved
+
+UI issuse, "..." read more is shown in book details even though Description field is blank. at author end
+https://www.pivotaltracker.com/story/show/164185489 | Resolved
+
+UI issue, Space between the text and the line underneath it, in Text type, single select and multi-choice question in activity at author end.
+https://www.pivotaltracker.com/story/show/164185846 | Resolved
+
+Add to cart functionality change
+https://www.pivotaltracker.com/story/show/164161402 | Resolved
+
+Question type drop down do not closed, once open to select question type under the activity
+https://www.pivotaltracker.com/story/show/164185807 | Resolved
+
+When the user adds multiple items on cart "Soft copy, Hard copy, the event" on the checkout screen its showing wrong prices.
+https://www.pivotaltracker.com/story/show/164201527 | Resolved
+
+Remove image height from image post.
+https://www.pivotaltracker.com/story/show/164243928 | Resolved
+
+Remove Trending section for now
+https://www.pivotaltracker.com/story/show/164243907 | Resolved
+
+Cancel button is shown under the post..Breaking the lines of post...at author end
+https://www.pivotaltracker.com/story/show/164044280 | Resolved
+
+On post when author add link with long description Read More button is showing on wrong side.
+https://www.pivotaltracker.com/story/show/164243988 | Resolved
+
+Image Post removed from author and user end for now.
+https://www.pivotaltracker.com/story/show/164250276 | Resolved
+
+===============================================================================
+
+Release 0.100.0223-pre
+======================
+HASH: 1b0c6cc69a4bece248002dc27ea976d5589da108
+
+Release Story
+=============
+https://www.pivotaltracker.com/story/show/164161629
+
+Status
+======
+
+Remove the sign up link from ts.today site.
+https://www.pivotaltracker.com/story/show/164185334 | Resolved
+
+Default image change to ts logo for author and users in all site
+https://www.pivotaltracker.com/story/show/164185488 | Resolved
+
+Social links disabled for ts.today.
+https://www.pivotaltracker.com/story/show/164186830 | Resolved
+
+Author image show with post.
+https://www.pivotaltracker.com/story/show/164186831 | Resolved
+
+When posting the link on author side on dev, the picture is not populating
+https://www.pivotaltracker.com/story/show/164186832 | Resolved
+
+Comment Section down for sub comments
+https://www.pivotaltracker.com/story/show/164186835 | Resolved
+
+Fixed image breaking issue on the author follows the section on user side if no image
+https://www.pivotaltracker.com/story/show/164186948 | Resolved
+
+===============================================================================
+
+Release 0.100.0222-pre
+======================
+HASH: 877521019775dad89349b68d78df02f7b994234d
+
+Release Story
+=============
+https://www.pivotaltracker.com/story/show/164139077
+
+Status
+======
+
+https://www.pivotaltracker.com/story/show/163601148 | Resolved
+https://www.pivotaltracker.com/story/show/164103185 | Resolved
+https://www.pivotaltracker.com/story/show/164103789 | Resolved
+https://www.pivotaltracker.com/story/show/164132909 | Resolved
+https://www.pivotaltracker.com/story/show/164133879 | Resolved
+https://www.pivotaltracker.com/story/show/164133897 | Resolved
+https://www.pivotaltracker.com/story/show/164133912 | Resolved
+https://www.pivotaltracker.com/story/show/164133943 | Resolved
+https://www.pivotaltracker.com/story/show/164133969 | Resolved
+https://www.pivotaltracker.com/story/show/164133978 | Resolved
+https://www.pivotaltracker.com/story/show/164134015 | Resolved
+https://www.pivotaltracker.com/story/show/164134509 | Resolved
+https://www.pivotaltracker.com/story/show/164136637 | Resolved
+https://www.pivotaltracker.com/story/show/164138401 | Resolved
+https://www.pivotaltracker.com/story/show/164160650 | Resolved
+https://www.pivotaltracker.com/story/show/164161357 | Resolved
+https://www.pivotaltracker.com/story/show/164161374 | Resolved
+https://www.pivotaltracker.com/story/show/164161378 | Resolved
+https://www.pivotaltracker.com/story/show/164161381 | Resolved
+https://www.pivotaltracker.com/story/show/164161402 | Resolved
+https://www.pivotaltracker.com/story/show/164161407 | Resolved
+https://www.pivotaltracker.com/story/show/164161836 | Resolved
+https://www.pivotaltracker.com/story/show/164165771 | Resolved
+https://www.pivotaltracker.com/story/show/164165899 | Resolved
+https://www.pivotaltracker.com/story/show/164165905 | Resolved
+https://www.pivotaltracker.com/story/show/164165908 | Resolved
+
+===============================================================================
+
+Release 0.100.0220-pre
+======================
+HASH: 766afc1540c8209fc30a11f1fc4450979006c625
+
+Release Story
+=============
+https://www.pivotaltracker.com/story/show/164137800
+
+Status
+======
+
+https://www.pivotaltracker.com/story/show/164133953 | Resolved
+https://www.pivotaltracker.com/story/show/164137705 | Resolved
+https://www.pivotaltracker.com/story/show/164137936 | Resolved
+https://www.pivotaltracker.com/story/show/164138234 | Resolved
+https://www.pivotaltracker.com/story/show/164138344 | Resolved
+https://www.pivotaltracker.com/story/show/164103883 | Resolved
+
+===============================================================================
+
+
+Release 0.100.0131-pre
+======================
+HASH: 02375c96760b1fcd93a515ece0e611f29463bc73
+
+Release Story
+=============
+https://www.pivotaltracker.com/story/show/163587784
+
+Status
+======
+
+https://www.pivotaltracker.com/story/show/163365381 | Resolved
+https://www.pivotaltracker.com/story/show/163389451 | Resolved
+https://www.pivotaltracker.com/story/show/163511355 | Resolved
+https://www.pivotaltracker.com/story/show/163322788 | Resolved
+https://www.pivotaltracker.com/story/show/162008666 | Resolved
+https://www.pivotaltracker.com/story/show/162008703 | Resolved
+https://www.pivotaltracker.com/story/show/163446625 | Resolved
+https://www.pivotaltracker.com/story/show/163290413 | Resolved
+https://www.pivotaltracker.com/story/show/163388354 | Resolved
+https://www.pivotaltracker.com/story/show/163621226 | Resolved
+
+===============================================================================
+
+Release 0.100.0130-pre
+======================
+HASH: bb64f3d1ac3c6fa401f18aebac8e50d30b6e41f5
+
+Release Story
+=============
+https://www.pivotaltracker.com/story/show/163556542
+
+Status
+======
+
+https://www.pivotaltracker.com/story/show/160888155 | Resolved
+https://www.pivotaltracker.com/story/show/160888269 | Resolved
+https://www.pivotaltracker.com/story/show/163110295 | Resolved
+https://www.pivotaltracker.com/story/show/163110775 | Resolved
+https://www.pivotaltracker.com/story/show/163112602 | Resolved
+https://www.pivotaltracker.com/story/show/163113556 | Resolved
+https://www.pivotaltracker.com/story/show/163282851 | Resolved
+https://www.pivotaltracker.com/story/show/163289397 | Resolved
+https://www.pivotaltracker.com/story/show/163289477 | Resolved
+https://www.pivotaltracker.com/story/show/163290888 | Resolved
+https://www.pivotaltracker.com/story/show/163317489 | Resolved
+https://www.pivotaltracker.com/story/show/163321067 | Resolved
+https://www.pivotaltracker.com/story/show/163322253 | Resolved
+https://www.pivotaltracker.com/story/show/163322383 | Resolved
+https://www.pivotaltracker.com/story/show/163322550 | Resolved
+https://www.pivotaltracker.com/story/show/163322951 | Resolved
+https://www.pivotaltracker.com/story/show/163354610 | Resolved
+https://www.pivotaltracker.com/story/show/163354613 | Resolved
+https://www.pivotaltracker.com/story/show/163355889 | Resolved
+https://www.pivotaltracker.com/story/show/163355992 | Resolved
+https://www.pivotaltracker.com/story/show/163356217 | Resolved
+https://www.pivotaltracker.com/story/show/163358565 | Resolved
+https://www.pivotaltracker.com/story/show/163387727 | Resolved
+https://www.pivotaltracker.com/story/show/163388046 | Resolved
+https://www.pivotaltracker.com/story/show/163389156 | Resolved
+https://www.pivotaltracker.com/story/show/163389185 | Resolved
+https://www.pivotaltracker.com/story/show/163420968 | Resolved
+https://www.pivotaltracker.com/story/show/163479371 | Resolved
+https://www.pivotaltracker.com/story/show/163479371 | Resolved
+https://www.pivotaltracker.com/story/show/163480782 | Resolved
+https://www.pivotaltracker.com/story/show/163481205 | Resolved
+https://www.pivotaltracker.com/story/show/163511009 | Resolved
+https://www.pivotaltracker.com/story/show/163511083 | Resolved
+https://www.pivotaltracker.com/story/show/163511135 | Resolved
+https://www.pivotaltracker.com/story/show/163511245 | Resolved
+https://www.pivotaltracker.com/story/show/163511755 | Resolved
+https://www.pivotaltracker.com/story/show/163516517 | Resolved
+https://www.pivotaltracker.com/story/show/163516785 | Resolved
+https://www.pivotaltracker.com/story/show/163517862 | Resolved
+https://www.pivotaltracker.com/story/show/163554114 | Resolved
+
+===============================================================================
+
+Release 0.100.0129-pre
+======================
+HASH: 3ef3889cb5baac67e4039c1abbae95cd3cfab192
+
+Release Story
+=============
+https://www.pivotaltracker.com/story/show/163520381
+
+Status
+======
+
+https://www.pivotaltracker.com/story/show/163320210 | Resolved
+https://www.pivotaltracker.com/story/show/163355719 | Resolved
+https://www.pivotaltracker.com/story/show/163359104 | Resolved
+https://www.pivotaltracker.com/story/show/163360564 | Resolved
+https://www.pivotaltracker.com/story/show/163364974 | Resolved
+https://www.pivotaltracker.com/story/show/163365097 | Resolved
+https://www.pivotaltracker.com/story/show/163366532 | Resolved
+https://www.pivotaltracker.com/story/show/163415154 | Resolved
+https://www.pivotaltracker.com/story/show/163446383 | Resolved
+https://www.pivotaltracker.com/story/show/163446832 | Resolved
+https://www.pivotaltracker.com/story/show/163451472 | Resolved
+https://www.pivotaltracker.com/story/show/163479320 | Resolved
+https://www.pivotaltracker.com/story/show/163509237 | Resolved
+
+===============================================================================
+
+Release 0.100.0127-pre
+======================
+HASH: 0810991f40fe8f12129c2e7f934143d2dd551860
+
+Release Story
+=============
+https://www.pivotaltracker.com/story/show/163453523
+
+Status
+======
+
+https://www.pivotaltracker.com/story/show/160452080 | Resolved
+https://www.pivotaltracker.com/story/show/160613106 | Resolved
+https://www.pivotaltracker.com/story/show/160888076 | Resolved
+https://www.pivotaltracker.com/story/show/161176716 | Resolved
+https://www.pivotaltracker.com/story/show/161582800 | Resolved
+https://www.pivotaltracker.com/story/show/161714637 | Resolved
+https://www.pivotaltracker.com/story/show/161877733 | Resolved
+https://www.pivotaltracker.com/story/show/161878673 | Resolved
+https://www.pivotaltracker.com/story/show/161978569 | Resolved
+https://www.pivotaltracker.com/story/show/161978590 | Resolved
+https://www.pivotaltracker.com/story/show/161978631 | Resolved
+https://www.pivotaltracker.com/story/show/161978794 | Resolved
+https://www.pivotaltracker.com/story/show/162008723 | Resolved
+https://www.pivotaltracker.com/story/show/162082263 | Resolved
+https://www.pivotaltracker.com/story/show/162151857 | Resolved
+https://www.pivotaltracker.com/story/show/163110076 | Resolved
+https://www.pivotaltracker.com/story/show/163110247 | Resolved
+https://www.pivotaltracker.com/story/show/163111230 | Resolved
+https://www.pivotaltracker.com/story/show/163111303 | Resolved
+https://www.pivotaltracker.com/story/show/163111432 | Resolved
+https://www.pivotaltracker.com/story/show/163111725 | Resolved
+https://www.pivotaltracker.com/story/show/163111927 | Resolved
+https://www.pivotaltracker.com/story/show/163114998 | Resolved
+https://www.pivotaltracker.com/story/show/163114998 | Resolved
+https://www.pivotaltracker.com/story/show/163144103 | Resolved
+https://www.pivotaltracker.com/story/show/163182895 | Resolved
+https://www.pivotaltracker.com/story/show/163187909 | Resolved
+https://www.pivotaltracker.com/story/show/163217329 | Resolved
+https://www.pivotaltracker.com/story/show/163217749 | Resolved
+https://www.pivotaltracker.com/story/show/163222286 | Resolved
+https://www.pivotaltracker.com/story/show/163222534 | Resolved
+https://www.pivotaltracker.com/story/show/163281638 | Resolved
+https://www.pivotaltracker.com/story/show/163282679 | Resolved
+https://www.pivotaltracker.com/story/show/163283746 | Resolved
+https://www.pivotaltracker.com/story/show/163287184 | Resolved
+https://www.pivotaltracker.com/story/show/163289522 | Resolved
+https://www.pivotaltracker.com/story/show/163315617 | Resolved
+https://www.pivotaltracker.com/story/show/163315851 | Resolved
+https://www.pivotaltracker.com/story/show/163317858 | Resolved
+https://www.pivotaltracker.com/story/show/163321316 | Resolved
+https://www.pivotaltracker.com/story/show/163354623 | Resolved
+https://www.pivotaltracker.com/story/show/163354646 | Resolved
+https://www.pivotaltracker.com/story/show/163359479 | Resolved
+https://www.pivotaltracker.com/story/show/163363900 | Resolved
+https://www.pivotaltracker.com/story/show/163363979 | Resolved
+https://www.pivotaltracker.com/story/show/163364034 | Resolved
+https://www.pivotaltracker.com/story/show/163365157 | Resolved
+https://www.pivotaltracker.com/story/show/163365169 | Resolved
+https://www.pivotaltracker.com/story/show/163366020 | Resolved
+https://www.pivotaltracker.com/story/show/163366041 | Resolved
+https://www.pivotaltracker.com/story/show/163366080 | Resolved
+https://www.pivotaltracker.com/story/show/163366343 | Resolved
+https://www.pivotaltracker.com/story/show/163368357 | Resolved
+https://www.pivotaltracker.com/story/show/163382149 | Resolved
+https://www.pivotaltracker.com/story/show/163389108 | Resolved
+https://www.pivotaltracker.com/story/show/163389216 | Resolved
+https://www.pivotaltracker.com/story/show/163389234 | Resolved
+https://www.pivotaltracker.com/story/show/163389360 | Resolved
+https://www.pivotaltracker.com/story/show/163389548 | Resolved
+https://www.pivotaltracker.com/story/show/163390286 | Resolved
+https://www.pivotaltracker.com/story/show/163420987 | Resolved
+https://www.pivotaltracker.com/story/show/163420990 | Resolved
+https://www.pivotaltracker.com/story/show/163445622 | Resolved
+https://www.pivotaltracker.com/story/show/163445729 | Resolved
+https://www.pivotaltracker.com/story/show/163445785 | Resolved
+https://www.pivotaltracker.com/story/show/163446197 | Resolved
+https://www.pivotaltracker.com/story/show/163447356 | Resolved
+https://www.pivotaltracker.com/story/show/163448039 | Resolved
+https://www.pivotaltracker.com/story/show/163451075 | Resolved
+https://www.pivotaltracker.com/story/show/163474433 | Resolved
+https://www.pivotaltracker.com/story/show/163475271 | Resolved
+https://www.pivotaltracker.com/story/show/163475850 | Resolved
+https://www.pivotaltracker.com/story/show/163476720 | Resolved
+https://www.pivotaltracker.com/story/show/163478307 | Resolved
+https://www.pivotaltracker.com/story/show/163479488 | Resolved
+https://www.pivotaltracker.com/story/show/163480804 | Resolved
+https://www.pivotaltracker.com/story/show/163480841 | Resolved
+https://www.pivotaltracker.com/story/show/163508989 | Resolved
+https://www.pivotaltracker.com/story/show/163509119 | Resolved
+
+
+===============================================================================
+
+Release 0.100.0123-pre
+======================
+HASH: 59e80c3ba7ab9eecbeb3a042c1ac92a8bb752cca
+
+Release Story
+=============
+https://www.pivotaltracker.com/story/show/163420244
+
+
+===============================================================================
+
+Release 0.100.0121-pre
+====================
+HASH: 1a35050c770d0e9aa0690586f6ac14e9d7e61441
+
+New Feature
+===========
+Pin to TOP should remain in open mode, as compared to read more functionality being enabled.
+Different types of post (Draft, Scheduled and Current) have been added.
+Ability to highlight multiple words for references.
+Landing page has been changed to sign in.
+If Author uses his link to bring on users eg: http://dev.xcarta.com/home/influencer?id=2,
+User will be redirected to a sign up page. Once users signs up, they will automatically become
+followers of the said influencer. They will also be presented with option to support the
+influencer by purchasing their tier.
+
+
+Bug Fixes
+=========
+
+Highlight sentence for references also needs to work
+underline starts from word not before word
+hashtag clicking should not open references menu
+www is also optional while adding references
