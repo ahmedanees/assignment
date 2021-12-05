@@ -1,22 +1,3 @@
-Test
-================
-
-Ruby on Rails
--------------
-
-This application requires:
-
-- Ruby 2.4.0
-- Rails 5.2.0
-
-Learn more about [Installing Rails](http://railsapps.github.io/installing-rails.html).
-
-Getting Started
----------------
-
-Documentation and Support
--------------------------
-
 
 Technical test
 ================
@@ -29,33 +10,25 @@ This application requires:
 - Ruby 2.4.0
 - Rails 5.2.0
 
-Learn more about [Installing Rails](http://railsapps.github.io/installing-rails.html).
 
 Getting Started
 ---------------
 
+- rake db:drop db:create db:migrate db:seed
+- ActiveRecord::Migration.maintain_test_schema! to the top of the test_helper.rb file.
+- rake db:drop db:create db:migrate db:seed RAILS_ENV=test
+
 Documentation and Support
 -------------------------
-http://[DOMAIN]/api/v1/thermostats
+Get Reading:
+-----------       
 
-Authorization:
-Bearer
-token: e.g "42f22705-9916-4cdc-a080-af7b4074f1bb"
-
-{
-    "status": "success",
-    "message": "Loaded thermostat",
-    "data": [
-        {
-          ...
-
-        }
-}        
-GET http://[DOMAIN]/api/v1/readings/[reader_id]
-Authorization:
-Bearer
-token: e.g "42f22705-9916-4cdc-a080-af7b4074f1bb"
-
+- GET http://[DOMAIN]/api/v1/readings/[reader_id]
+- Authorization:
+- Bearer
+- token: e.g "42f22705-9916-4cdc-a080-af7b4074f1bb"
+Response
+------
 {
     "status": "success",
     "message": "Loaded reading",
@@ -71,10 +44,13 @@ token: e.g "42f22705-9916-4cdc-a080-af7b4074f1bb"
     }
 }
 
+Add Reading
+-----------
+
 POST http://[DOMAIN]/api/v1/thermostats/[THERMOSTAT_ID]/readings
-Authorization:
-Bearer
-token: e.g "42f22705-9916-4cdc-a080-af7b4074f1bb"
+- Authorization:
+- Bearer
+- token: e.g "42f22705-9916-4cdc-a080-af7b4074f1bb"
 {
     "number": 21,
     "temperature": "42.05",
@@ -83,6 +59,7 @@ token: e.g "42f22705-9916-4cdc-a080-af7b4074f1bb"
 }
 
 Before_action :authenticate is used to authenticate household_token for each call
+---------------------------------------------------------------------------------
 
 
 	def authenticate
