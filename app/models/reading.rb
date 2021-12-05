@@ -7,8 +7,6 @@ class Reading < ApplicationRecord
 	belongs_to :thermostat
 
 	def self.create_record(params)
-			reading  = Reading.new(params)
-			reading.save
+			Reading.create!(params)
 	end
-
 end
