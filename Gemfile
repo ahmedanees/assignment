@@ -11,7 +11,6 @@ gem 'puma'
 gem 'rails', '~> 5.2.0'
 gem 'curb'
 gem 'sidekiq'
-gem 'simple_form'
 gem 'redis', '>= 4.0.1'
 gem 'serviceworker-rails'
 
